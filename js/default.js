@@ -14,5 +14,5 @@ else{
 
 
 //結果を表示
-document.getElementById('choice').texyContent = message;
+document.getElementById('choice').textContent = message;
    
